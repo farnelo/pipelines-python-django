@@ -1,5 +1,5 @@
 [![Build Status](https://dev.azure.com/wediseb/Azure-pipelines/_apis/build/status/farnelo.pipelines-python-django)](https://dev.azure.com/wediseb/Azure-pipelines/_build/latest?definitionId=2)
-# Sample Python app for Azure Pipelines docs 
+# Sample Python app for Azure Pipelines docs - ths is test. 
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
